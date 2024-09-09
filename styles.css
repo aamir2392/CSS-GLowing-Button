@@ -1,9 +1,4 @@
-/* 
-  Project: CSS Glowing Button
-  Created: Sunday, 06 March 2022
-  Author: Jamshid Elmi 
-  Tutorial: https://youtu.be/b_8fHNIHFk4
-*/
+
 html,
 body {
   display: flex;
@@ -11,7 +6,6 @@ body {
   align-items: center;
   background-color: #161616;
   overflow: hidden;
-  /* transform: scale(1.5); */
 }
 
 /* button */
